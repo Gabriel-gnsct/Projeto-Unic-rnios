@@ -1,12 +1,12 @@
 # Análise de Startups Unicórnios (2012 - 2022)
 
 ## Sobre o Projeto
-<div align="justify>
+<p align="justify>
   
 Este projeto tem como objetivo analisar a evolução temporal, setorial e geográfica das startups unicórnios (empresas privadas avaliadas em mais de US$ 1 bilhão) até o mês de setembro de 2022. O estudo possui um foco especial no continente americano, contrastando seu desempenho e volume de investimentos com as demais regiões do mundo. <br>
 A análise também investiga o impacto de eventos globais, especificamente a pandemia de COVID-19, na captação de capital e na entrada de novos investidores no mercado.
 
-  </div>
+  </p>
 
 ## Fonte dos Dados
 O conjunto de dados utilizados (unicorns till sep 2022.csv) foi extraido da plataforma Kaggle e contém informações detalhadas sobre a avaliação, data de entrada no status de unicórnio, país, cidade, setor e investidores das startups. <br>
@@ -14,7 +14,7 @@ O conjunto de dados utilizados (unicorns till sep 2022.csv) foi extraido da plat
 
 ## Análise e Principais Descobertas
 
-<div align="justify>
+<p align="justify>
 
 O continente americano lidera o volume financeiro global de forma isolada, acumulando um total de US$ 2.225,35 bilhões investidos em unicórnios, valor que supera amplamente o segundo colocado, a Ásia (US$ 1.060,23 bilhões).
 <figure>
@@ -24,6 +24,8 @@ O continente americano lidera o volume financeiro global de forma isolada, acumu
  <br>
  <br>
 <br>
+</p>
+
 
 A evolução temporal mostra como a América se descolou do resto do mundo na geração de valor dos últimos anos:
 

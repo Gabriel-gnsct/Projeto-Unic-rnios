@@ -1,12 +1,12 @@
 # Análise de Startups Unicórnios (2012 - 2022)
 
 ## Sobre o Projeto
-<p align="justify>
+
   
 Este projeto tem como objetivo analisar a evolução temporal, setorial e geográfica das startups unicórnios (empresas privadas avaliadas em mais de US$ 1 bilhão) até o mês de setembro de 2022. O estudo possui um foco especial no continente americano, contrastando seu desempenho e volume de investimentos com as demais regiões do mundo. <br>
 A análise também investiga o impacto de eventos globais, especificamente a pandemia de COVID-19, na captação de capital e na entrada de novos investidores no mercado.
 
-  </p>
+ 
 
 ## Fonte dos Dados
 O conjunto de dados utilizados (unicorns till sep 2022.csv) foi extraido da plataforma Kaggle e contém informações detalhadas sobre a avaliação, data de entrada no status de unicórnio, país, cidade, setor e investidores das startups. <br>
@@ -14,7 +14,6 @@ O conjunto de dados utilizados (unicorns till sep 2022.csv) foi extraido da plat
 
 ## Análise e Principais Descobertas
 ### 1. A Hegemonia da América e o Domínio Global
-<p align="justify>
 
 O continente americano lidera o volume financeiro global de forma isolada, acumulando um total de US$ 2,225.35 bilhões investidos em unicórnios, valor que supera amplamente o segundo colocado, a Ásia (US$ 1,060.23 bilhões).
 <figure>
@@ -24,7 +23,6 @@ O continente americano lidera o volume financeiro global de forma isolada, acumu
  <br>
  <br>
 <br>
-</p>
 
 
 A evolução temporal mostra como a América se descolou do resto do mundo na geração de valor dos últimos anos:
@@ -42,11 +40,9 @@ A evolução temporal mostra como a América se descolou do resto do mundo na ge
 
 ### 2. O Cenário Interno: EUA e Polos de Inovação
 
-<p align="justify>
 
 Dentro da América, os Estados Unidos são o motor principal da inovação. Ao analisar a empresa de maior valor por país, a startup mais valiosa identificada é a americana SpaceX, avaliada em  US$ 127,00 Bilhões.
 
- </p>
 
 </figure>
 <img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/9da86b46-d19c-4268-b13b-4018a3cd0651" />
@@ -56,11 +52,9 @@ Dentro da América, os Estados Unidos são o motor principal da inovação. Ao a
  <br>
  <br>
  
-<p align="justify>
   
 As cidade de San Francisco (168 unicórnios) e Nova York (111 unicórnios) consolidam-se como os maiores polos de startups bilionárias do continente.
 
-</p>
 
 </figure>
 <img width="1389" height="690" alt="image" src="https://github.com/user-attachments/assets/30d96eac-c63e-42a2-85fb-2b43a299b5ce" />
@@ -72,11 +66,9 @@ As cidade de San Francisco (168 unicórnios) e Nova York (111 unicórnios) conso
 
 ### 3. Setores em Ascensão e Distribuição de Investimentos
 
-<p align="justify>
 
 Os investidores tem uma clara preferência por tecnologia escalável. Os setores líderes em captação global e na América São Fintech (US$ 855,43 bilhões) e Internet Software & Services (US$ 660,93 bilhões).
 
-</p>
 
 </figure>
 <img width="1389" height="790" alt="image" src="https://github.com/user-attachments/assets/fadff0cf-8092-4654-95d0-5c8de80594f8" />
@@ -86,11 +78,9 @@ Os investidores tem uma clara preferência por tecnologia escalável. Os setores
  <br>
  <br>
 
-<p align="justify>
 
 A evolução cumulativa desses segmentos comprova que o foco em finanças e softwares se manteve constante e dominante ao longo da última decáda. 3 bilhões).
 
-</p>
 
 </figure>
 <img width="1385" height="690" alt="image" src="https://github.com/user-attachments/assets/f472fc57-e71c-46a8-a83e-3fd6abe98433" />

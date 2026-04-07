@@ -13,13 +13,13 @@ O conjunto de dados utilizados (unicorns till sep 2022.csv) foi extraido da plat
 ##### Link para o dataset: [Unicorn Startups (Kaggle)](https://www.kaggle.com/datasets/ramjasmaurya/unicorn-startups/data)
 
 ## Análise e Principais Descobertas
-
+### 1. A Hegemonia da América e o Domínio Global
 <p align="justify>
 
-O continente americano lidera o volume financeiro global de forma isolada, acumulando um total de US$ 2.225,35 bilhões investidos em unicórnios, valor que supera amplamente o segundo colocado, a Ásia (US$ 1.060,23 bilhões).
+O continente americano lidera o volume financeiro global de forma isolada, acumulando um total de US$ 2,225.35 bilhões investidos em unicórnios, valor que supera amplamente o segundo colocado, a Ásia (US$ 1,060.23 bilhões).
 <figure>
   <img width="1189" height="590" alt="Gráfico de valores totais investidos" src="https://github.com/user-attachments/assets/3972f3b3-f713-4b28-94d6-158daba54054" />
- <figcaption align="center"><em><strong>Figura 1:</strong> Valores totais investidos por continente durante o período de 2012 - 2022.</em></figcaption>
+ <figcaption align="center"><em><strong>Figura 1:</strong> Valor total de investimentos por continente.</em></figcaption>
  </figure>
  <br>
  <br>
@@ -31,13 +31,110 @@ A evolução temporal mostra como a América se descolou do resto do mundo na ge
 
 </figure>
 <img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/3972f3b3-f713-4b28-94d6-158daba54054" />
-<figcaption align="center"><em><strong>Figura 2:</strong> Quantidade novos unicórnios durante o período de 2012 - 2022.</em></figcaption>
+<figcaption align="center"><em><strong>Figura 2:</strong> Evolução Temporal: América vs. Resto do Mundo.</em></figcaption>
  </figure>
  <br>
  <br>
  <br>
  
-</div>
+
+
+
+### 2. O Cenário Interno: EUA e Polos de Inovação
+
+<p align="justify>
+
+Dentro da América, os Estados Unidos são o motor principal da inovação. Ao analisar a empresa de maior valor por país, a startup mais valiosa identificada é a americana SpaceX, avaliada em  US$ 127,00 Bilhões.
+
+ </p>
+
+</figure>
+<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/9da86b46-d19c-4268-b13b-4018a3cd0651" />
+<figcaption align="center"><em><strong>Figura 3:</strong> Maiores empresas por país na América.</em></figcaption>
+ </figure>
+ <br>
+ <br>
+ <br>
+ 
+<p align="justify>
+  
+As cidade de San Francisco (168 unicórnios) e Nova York (111 unicórnios) consolidam-se como os maiores polos de startups bilionárias do continente.
+
+</p>
+
+</figure>
+<img width="1389" height="690" alt="image" src="https://github.com/user-attachments/assets/30d96eac-c63e-42a2-85fb-2b43a299b5ce" />
+<figcaption align="center"><em><strong>Figura 4:</strong> Top 10 Cidades da América.</em></figcaption>
+ </figure>
+ <br>
+ <br>
+ <br>
+
+### 3. Setores em Ascensão e Distribuição de Investimentos
+
+<p align="justify>
+
+Os investidores tem uma clara preferência por tecnologia escalável. Os setores líderes em captação global e na América São Fintech (US$ 855,43 bilhões) e Internet Software & Services (US$ 660,93 bilhões).
+
+</p>
+
+</figure>
+<img width="1389" height="790" alt="image" src="https://github.com/user-attachments/assets/fadff0cf-8092-4654-95d0-5c8de80594f8" />
+<figcaption align="center"><em><strong>Figura 5:</strong> Top 10 Setores por Investimento.</em></figcaption>
+ </figure>
+ <br>
+ <br>
+ <br>
+
+<p align="justify>
+
+A evolução cumulativa desses segmentos comprova que o foco em finanças e softwares se manteve constante e dominante ao longo da última decáda. 3 bilhões).
+
+</p>
+
+</figure>
+<img width="1385" height="690" alt="image" src="https://github.com/user-attachments/assets/f472fc57-e71c-46a8-a83e-3fd6abe98433" />
+<figcaption align="center"><em><strong>Figura 6:</strong> Evolução Cumulativa dos 5 Maiores Setores.</em></figcaption>
+ </figure>
+ <br>
+ <br>
+ <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

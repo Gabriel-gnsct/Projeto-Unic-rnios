@@ -1,4 +1,5 @@
 # Análise de Startups Unicórnios (2012 - 2022)
+Na industria, startups privadas avaliadas em mais de US$1.000.000.000 (1 bilhão) são frequentemente identificadas como "Unicórnio". Esse termo foi popularizado em 2013, pela investidora de capital de risco Aileen Lee, em seu artigo "Bem-vindo ao Clube dos Unicórnios", onde o termo "unicórnio" foi utilizado para definir as startups e empresas privadas que atingiam o valor de US$ 1 bilhão.
 
 ## Sobre o Projeto
 
@@ -33,7 +34,7 @@ A evolução temporal mostra como a América se descolou do resto do mundo na ge
  </figure>
  <br>
  <br>
- <br>
+
  
 
 
@@ -62,7 +63,7 @@ As cidade de San Francisco (168 unicórnios) e Nova York (111 unicórnios) conso
  </figure>
  <br>
  <br>
- <br>
+
 
 ### 3. Setores em Ascensão e Distribuição de Investimentos
 
@@ -79,7 +80,7 @@ Os investidores tem uma clara preferência por tecnologia escalável. Os setores
  <br>
 
 
-A evolução cumulativa desses segmentos comprova que o foco em finanças e softwares se manteve constante e dominante ao longo da última decáda. 3 bilhões).
+A evolução cumulativa desses segmentos comprova que o foco em finanças e softwares se manteve constante e dominante ao longo da última decáda.
 
 
 </figure>
@@ -88,7 +89,24 @@ A evolução cumulativa desses segmentos comprova que o foco em finanças e soft
  </figure>
  <br>
  <br>
- <br>
+
+### 4. O "Efeito Pandemia" no Capital de Risco
+Contrariando as expectativas de retração geradas pela crise da COVID-19, o mercado de investimentos demonstrou forte resiliência. O número de investidores aportando capital aumentou significativamente no recorte de 2020 a 2022 em comparação com os anos anteriores.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/04e86360-fb0d-4d85-b337-1acc2a9b81c8" width="100%"> 
+      <br>
+      <em>Figura 7: Efeito pandemia - Heatmap Investidores (pré e pós pandemia).</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/22da9e01-9d98-4345-8dd1-e1984895e0ef" width="100%"> 
+      <br>
+      <em>Figura 8: Efeito pandemia - Heatmap Investidores (2018 a 2020 e 2020 a 2022).</em>
+    </td>
+  </tr>
+</table>
 
 
 
@@ -123,21 +141,12 @@ A evolução cumulativa desses segmentos comprova que o foco em finanças e soft
 
 
 
-
-
-
-
-
-# Avaliação dos Unicórnios em Território Americano
-## Resumo
-Este estudo tem como objetivo analisar a evolução das startups unicórnios — empresas privadas avaliadas em mais de US$ 1 bilhão — até o ano de 2022, com um foco especial no território americano e comparações globais. A pesquisa abrangeu a distribuição geográfica, as tendências setoriais e o impacto de eventos globais, como a pandemia de COVID-19, no ecossistema de investimentos. Os resultados indicam uma forte hegemonia do continente americano, impulsionada majoritariamente pelos Estados Unidos, e um crescimento acelerado em setores de tecnologia. Além disso, a análise revelou que o mercado de startups apresentou forte resiliência e expansão durante e após o período pandêmico. <br> <br>
 
 ## Introdução
-Na industria, startups privadas avaliadas em mais de US$1.000.000.000 (1 bilhão) são frequentemente identificadas como "Unicórnio". Esse termo foi popularizado em 2013, pela investidora de capital de risco Aileen Lee, em seu artigo "Bem-vindo ao Clube dos Unicórnios", onde o termo "unicórnio" foi utilizado para definir as startups e empresas privadas que atingiam o valor de US$ 1 bilhão. Por definição, as startups podem ser consideradas empresas emergentes que possuem como principal objetivo a aprimoração de um modelo de negócio (X), onde a principal base para seu desenvolvimento é o uso da tecnologia. <br> <br>
+ Por definição, as startups podem ser consideradas empresas emergentes que possuem como principal objetivo a aprimoração de um modelo de negócio (X), onde a principal base para seu desenvolvimento é o uso da tecnologia. <br> <br>
 Este estudo tem como objetivo analisar a evolução das startups unicórnios até o ano de 2022, com um foco no território americano, fornecendo comparações globais para contextualizar o cenário. A análise abrange a distribuição geográfica, setorial, temporal e o impacto de eventos significativos, como a pandemia de COVID-19, no ecossistema de investimentos. O dataset utilizado foi obtido do Kaggle, intitulado 'unicorns till sep 2022.csv'.
 
 
-No mundo, existem pouco mais de 400 empresas que conseguiram o "título" de unicórnio, dentre elas podem ser citadas a Bytedance (China), SpaceX (EUA), Canva (Austrália), Quinto Andar (Brasil) e Rappi (Colombia). Como mostrado na Figura 1, o continente Americano lidera como maior investidor (US$B) entre os continentes, mesmo sendo apenas o 3º colocado, quando observamos a quantidade de novos unicórnios durante o período (Figura 2), é evidente que a quantidade de unicórnios não é um indicadivo de quantidade de investimento.
 
 
 

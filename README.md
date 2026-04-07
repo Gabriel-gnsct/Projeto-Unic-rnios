@@ -6,3 +6,4 @@ No mundo, existem pouco mais de 400 empresas que conseguiram o "título" de unic
 Este estudo tem como objetivo analisar a evolução das startups em território americano até o ano de 2022.
 
 O link para download do arquivo pode ser consultado no site da kaggle: https://www.kaggle.com/datasets/ramjasmaurya/unicorn-startups/data
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/71dc41a5-8d15-439e-aa73-388bc7856452" />

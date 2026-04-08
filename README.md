@@ -116,7 +116,7 @@ Contrariando as expectativas de retração geradas pela crise da COVID-19, o mer
 A grande maioria dos unicórnios possui avaliações próximas à base de classificação (US$ 1 bilhão), com a frequência caindo drasticamente para valores superiores, o que evidencia a dificuldade mercadológica de escalar avaliações para dezenas de bilhões.
 
 <figure>
-  <img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/4185c3d1-42cf-477e-a7bf-c92a00f768f7" />
+  <img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/5481dd62-a021-4806-a178-fdb866710712" />
  <figcaption align="center"><em><strong>Figura 9:</strong> Distribuição de Valores em $B.</em></figcaption>
  </figure>
 

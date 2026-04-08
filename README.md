@@ -7,7 +7,13 @@ Na industria, startups privadas avaliadas em mais de US$1.000.000.000 (1 bilhão
 Este projeto tem como objetivo analisar a evolução temporal, setorial e geográfica das startups unicórnios (empresas privadas avaliadas em mais de US$ 1 bilhão) até o mês de setembro de 2022. O estudo possui um foco especial no continente americano, contrastando seu desempenho e volume de investimentos com as demais regiões do mundo. <br>
 A análise também investiga o impacto de eventos globais, especificamente a pandemia de COVID-19, na captação de capital e na entrada de novos investidores no mercado.
 
- 
+ ## Tecnologias Utilizadas
+ Para a limpeza, manipulação e visualização dos dados, este projeto baseou-se na linguagem Python.
+ <br>
+ * Linguagem: Python
+ * Manipulação de Dados: Pandas, Numpy
+ * Visualização: Matplotlib, Seaborn
+ * Ambiente: Google Colab
 
 ## Fonte dos Dados
 O conjunto de dados utilizados (unicorns till sep 2022.csv) foi extraido da plataforma Kaggle e contém informações detalhadas sobre a avaliação, data de entrada no status de unicórnio, país, cidade, setor e investidores das startups. <br>
@@ -121,9 +127,19 @@ A grande maioria dos unicórnios possui avaliações próximas à base de classi
  </figure>
 
 
+<br>
+<br>
 
 
 
+### Conclusão
+A análise dos dados das startups unicórnios até setembro de 2022 revela tendências claras e definitivas sobre o fluxo de capital de risco e inovação tecnológica ao redor do mundo.
+* **Centralização Geográfica:** As startups de alto valor são altamente concentradas. O continente americano dita as regras do mercado, quase que exclusivamente impulsionado pela infraestrutura financeira dos Estados Unidos e polos maduros como San Francisco e Nova York.
+* **Tecnologia Financeira e Escalabilidade Lideram:** Há uma preferência indiscutível dos investidores por modelos de negócios digitais. Os setores Fintech e Software & Serviços de Internet não apenas dominam o volume total, mas também sustentam um crescimento histórico acumulado impressionante.
+* **Resiliência e Catalisação pela Crise:** A pandemia não paralisou os aportes; pelo contrário, acelerou a necessidade de soluções digitais. O aumento substancial do número de investidores após 2020 prova que o mercado absorveu a volatilidade e apostou na transformação impulsionada pelo distanciamento social.
+* **A Base da Pirâmide Bilionária:** Embora os números totais sejam astronômicos (atingindo trilhões), a distribuição de ***valuations*** demonstra que mesmo dentro do grupo de unicórnios, escalar de US$ 1 bilhão para patamares de decacórnios (US$ 10 bi+) é um feito estatisticamente raro.
+<br>
+Este estudo atesta que o cenário de capital de risco da última década premiou modelos de rápida expansão e adequação digital, mantendo-os firme mesmo diant de cenários macroeconômicos globais adversos.
 
 
 

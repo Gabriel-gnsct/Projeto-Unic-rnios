@@ -18,7 +18,7 @@ O conjunto de dados utilizados (unicorns till sep 2022.csv) foi extraido da plat
 
 O continente americano lidera o volume financeiro global de forma isolada, acumulando um total de US$ 2,225.35 bilhões investidos em unicórnios, valor que supera amplamente o segundo colocado, a Ásia (US$ 1,060.23 bilhões).
 <figure>
-  <img width="1189" height="590" alt="Gráfico de valores totais investidos" src="https://github.com/user-attachments/assets/3972f3b3-f713-4b28-94d6-158daba54054" />
+  <img width="1189" height="590" alt="Gráfico de valores totais investidos" src="https://github.com/user-attachments/assets/12976cef-7aff-40ee-bfb7-bc67a2574698" />
  <figcaption align="center"><em><strong>Figura 1:</strong> Valor total de investimentos por continente.</em></figcaption>
  </figure>
  <br>
@@ -29,7 +29,8 @@ O continente americano lidera o volume financeiro global de forma isolada, acumu
 A evolução temporal mostra como a América se descolou do resto do mundo na geração de valor dos últimos anos:
 
 </figure>
-<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/3972f3b3-f713-4b28-94d6-158daba54054" />
+<img width="1389" height="790" alt="image" src="https://github.com/user-attachments/assets/dd39f4db-f270-44bc-a478-d842e5888d85" />
+
 <figcaption align="center"><em><strong>Figura 2:</strong> Evolução Temporal: América vs. Resto do Mundo.</em></figcaption>
  </figure>
  <br>
@@ -46,19 +47,19 @@ Dentro da América, os Estados Unidos são o motor principal da inovação. Ao a
 
 
 </figure>
-<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/9da86b46-d19c-4268-b13b-4018a3cd0651" />
+<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/2c9f3266-15d4-4eb4-a4cf-c9027dce9542" />
 <figcaption align="center"><em><strong>Figura 3:</strong> Maiores empresas por país na América.</em></figcaption>
  </figure>
  <br>
  <br>
  <br>
- 
-  
+
+
 As cidade de San Francisco (168 unicórnios) e Nova York (111 unicórnios) consolidam-se como os maiores polos de startups bilionárias do continente.
 
 
 </figure>
-<img width="1389" height="690" alt="image" src="https://github.com/user-attachments/assets/30d96eac-c63e-42a2-85fb-2b43a299b5ce" />
+<img width="1389" height="690" alt="image" src="https://github.com/user-attachments/assets/b2a41ce1-07ab-4438-8d59-97ca9c302946" />
 <figcaption align="center"><em><strong>Figura 4:</strong> Top 10 Cidades da América.</em></figcaption>
  </figure>
  <br>
@@ -114,6 +115,10 @@ Contrariando as expectativas de retração geradas pela crise da COVID-19, o mer
 ### 5. Distribuição de ***Valuations*** na América
 A grande maioria dos unicórnios possui avaliações próximas à base de classificação (US$ 1 bilhão), com a frequência caindo drasticamente para valores superiores, o que evidencia a dificuldade mercadológica de escalar avaliações para dezenas de bilhões.
 
+<figure>
+  <img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/4185c3d1-42cf-477e-a7bf-c92a00f768f7" />
+ <figcaption align="center"><em><strong>Figura 9:</strong> Distribuição de Valores em $B.</em></figcaption>
+ </figure>
 
 
 
@@ -148,28 +153,4 @@ A grande maioria dos unicórnios possui avaliações próximas à base de classi
 
 
 
-
-## Introdução
- Por definição, as startups podem ser consideradas empresas emergentes que possuem como principal objetivo a aprimoração de um modelo de negócio (X), onde a principal base para seu desenvolvimento é o uso da tecnologia. <br> <br>
-Este estudo tem como objetivo analisar a evolução das startups unicórnios até o ano de 2022, com um foco no território americano, fornecendo comparações globais para contextualizar o cenário. A análise abrange a distribuição geográfica, setorial, temporal e o impacto de eventos significativos, como a pandemia de COVID-19, no ecossistema de investimentos. O dataset utilizado foi obtido do Kaggle, intitulado 'unicorns till sep 2022.csv'.
-
-
-
-
-
-
-
-
-
-  
-
-
-
-Com os olhos focados no continente Americano,
-
-
-
-
-
-Este estudo tem como objetivo analisar a evolução das startups em território americano até o ano de 2022.
 

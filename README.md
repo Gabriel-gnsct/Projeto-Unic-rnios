@@ -107,6 +107,13 @@ Contrariando as expectativas de retração geradas pela crise da COVID-19, o mer
     </td>
   </tr>
 </table>
+<br>
+<br>
+
+
+### 5. Distribuição de ***Valuations*** na América
+A grande maioria dos unicórnios possui avaliações próximas à base de classificação (US$ 1 bilhão), com a frequência caindo drasticamente para valores superiores, o que evidencia a dificuldade mercadológica de escalar avaliações para dezenas de bilhões.
+
 
 
 
